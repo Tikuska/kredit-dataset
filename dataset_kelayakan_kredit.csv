@@ -1,0 +1,101 @@
+ID,LamaPekerjaan,Pekerjaan,Pendapatan,Jumlah_Tanggungan,Riwayat_Kredit,JumlahPinjaman,Lama_Pinjaman,Label
+1,55,PNS,14906000,5,Tidak Ada,13667000,43,Layak
+2,59,Wiraswasta,9430000,3,Baik,2852000,50,Layak
+3,30,PNS,9176000,1,Baik,4402000,47,Layak
+4,54,Wiraswasta,1544000,3,Tidak Ada,5003000,16,Tidak Layak
+5,59,PNS,1396000,5,Buruk,16507000,38,Tidak Layak
+6,33,Pelajar,1724000,0,Baik,8224000,33,Tidak Layak
+7,25,Pelajar,933000,2,Baik,8921000,17,Tidak Layak
+8,36,PNS,5540000,0,Baik,17051000,42,Layak
+9,42,Wiraswasta,14862000,2,Tidak Ada,6706000,17,Layak
+10,33,Pelajar,1124000,0,Buruk,1016000,12,Tidak Layak
+11,54,Swasta,9549000,3,Buruk,12165000,49,Tidak Layak
+12,18,Swasta,8435000,1,Buruk,4469000,54,Tidak Layak
+13,42,Pelajar,1845000,5,Baik,12715000,9,Tidak Layak
+14,29,Pelajar,989000,0,Buruk,5851000,50,Tidak Layak
+15,33,Pelajar,2462000,0,Baik,6729000,7,Tidak Layak
+16,35,Swasta,3383000,1,Tidak Ada,1860000,32,Layak
+17,29,Pelajar,2460000,4,Baik,6132000,24,Tidak Layak
+18,41,Pelajar,2951000,0,Buruk,11020000,27,Tidak Layak
+19,45,PNS,11140000,4,Tidak Ada,10194000,41,Layak
+20,58,Swasta,9252000,3,Baik,19030000,54,Layak
+21,29,Wiraswasta,6953000,3,Tidak Ada,7991000,18,Layak
+22,56,Swasta,12348000,3,Buruk,2385000,6,Tidak Layak
+23,35,Wiraswasta,7988000,0,Buruk,11491000,43,Tidak Layak
+24,19,Wiraswasta,1366000,0,Baik,17937000,10,Tidak Layak
+25,47,Pelajar,2442000,4,Tidak Ada,7027000,22,Tidak Layak
+26,23,Wiraswasta,4519000,1,Tidak Ada,5229000,38,Layak
+27,49,Swasta,4415000,5,Baik,11531000,11,Layak
+28,21,Swasta,2850000,1,Tidak Ada,6302000,47,Tidak Layak
+29,49,PNS,11573000,4,Buruk,18659000,33,Tidak Layak
+30,54,Pelajar,937000,1,Tidak Ada,16234000,26,Tidak Layak
+31,33,PNS,4168000,5,Baik,8498000,20,Layak
+32,42,Pelajar,1529000,0,Buruk,5045000,32,Tidak Layak
+33,21,Wiraswasta,9764000,0,Buruk,5506000,26,Tidak Layak
+34,45,Pelajar,1525000,4,Tidak Ada,14280000,50,Tidak Layak
+35,47,Pelajar,2708000,1,Baik,19193000,20,Tidak Layak
+36,37,Swasta,7702000,0,Baik,18809000,24,Layak
+37,25,Wiraswasta,7440000,4,Buruk,8252000,23,Tidak Layak
+38,54,Pelajar,1114000,1,Buruk,8838000,42,Tidak Layak
+39,21,Pelajar,1799000,0,Buruk,7114000,18,Tidak Layak
+40,21,Pelajar,1278000,0,Tidak Ada,16539000,20,Tidak Layak
+41,48,Wiraswasta,14767000,4,Buruk,15452000,28,Tidak Layak
+42,51,Swasta,11775000,0,Tidak Ada,1647000,49,Layak
+43,59,Pelajar,1008000,5,Tidak Ada,12647000,21,Tidak Layak
+44,23,Pelajar,2741000,1,Buruk,13494000,23,Tidak Layak
+45,58,Swasta,10788000,2,Tidak Ada,7359000,10,Layak
+46,43,Swasta,12031000,0,Tidak Ada,18950000,16,Layak
+47,57,Swasta,2513000,3,Buruk,4626000,23,Tidak Layak
+48,54,PNS,11531000,2,Baik,17881000,31,Layak
+49,24,Pelajar,1548000,3,Buruk,10007000,45,Tidak Layak
+50,49,PNS,2271000,2,Tidak Ada,7041000,20,Tidak Layak
+51,41,Pelajar,1886000,4,Tidak Ada,9920000,55,Tidak Layak
+52,51,PNS,10767000,5,Baik,11002000,57,Layak
+53,46,Pelajar,1357000,4,Baik,5093000,53,Tidak Layak
+54,58,Pelajar,1494000,5,Baik,19685000,11,Tidak Layak
+55,18,PNS,12425000,5,Tidak Ada,12150000,8,Layak
+56,24,Wiraswasta,12203000,0,Buruk,8471000,45,Tidak Layak
+57,19,Wiraswasta,2626000,2,Buruk,17720000,38,Tidak Layak
+58,60,Swasta,1223000,4,Buruk,12096000,57,Tidak Layak
+59,20,Wiraswasta,3916000,3,Tidak Ada,1614000,48,Layak
+60,29,Swasta,11846000,2,Buruk,17925000,39,Tidak Layak
+61,50,Swasta,1731000,4,Tidak Ada,18906000,39,Tidak Layak
+62,21,Pelajar,2467000,5,Baik,7419000,43,Tidak Layak
+63,20,Pelajar,2180000,5,Buruk,11727000,6,Tidak Layak
+64,31,Pelajar,1244000,5,Tidak Ada,13368000,32,Tidak Layak
+65,18,Pelajar,2024000,2,Buruk,19347000,40,Tidak Layak
+66,22,Wiraswasta,14548000,2,Tidak Ada,2932000,11,Layak
+67,47,Pelajar,1404000,4,Baik,2498000,47,Tidak Layak
+68,38,Wiraswasta,1973000,1,Baik,13496000,54,Tidak Layak
+69,27,Swasta,11527000,2,Tidak Ada,14470000,55,Layak
+70,46,Pelajar,1339000,4,Buruk,8773000,37,Tidak Layak
+71,35,Pelajar,2034000,3,Baik,4278000,28,Tidak Layak
+72,60,Wiraswasta,13348000,3,Buruk,3779000,52,Tidak Layak
+73,50,Swasta,11759000,1,Tidak Ada,2511000,31,Layak
+74,38,Wiraswasta,11997000,4,Buruk,8750000,47,Tidak Layak
+75,59,Swasta,6701000,5,Tidak Ada,4005000,32,Layak
+76,24,Pelajar,1848000,1,Buruk,6724000,60,Tidak Layak
+77,53,Wiraswasta,3140000,5,Buruk,6693000,35,Tidak Layak
+78,56,Wiraswasta,14568000,1,Tidak Ada,18704000,38,Layak
+79,26,Swasta,2563000,4,Buruk,2248000,50,Tidak Layak
+80,22,Wiraswasta,11133000,4,Buruk,14487000,6,Tidak Layak
+81,52,Pelajar,1569000,5,Baik,9218000,44,Tidak Layak
+82,59,Wiraswasta,12906000,1,Baik,14634000,50,Layak
+83,19,Swasta,8532000,1,Buruk,11122000,47,Tidak Layak
+84,22,Wiraswasta,12789000,5,Buruk,6069000,54,Tidak Layak
+85,19,PNS,3092000,1,Baik,17925000,42,Layak
+86,30,PNS,7695000,4,Tidak Ada,19059000,51,Layak
+87,45,PNS,3302000,2,Baik,10298000,37,Layak
+88,24,Swasta,10471000,5,Tidak Ada,10919000,44,Layak
+89,27,Swasta,8852000,5,Buruk,8526000,20,Tidak Layak
+90,49,Swasta,13076000,5,Buruk,17283000,58,Tidak Layak
+91,25,PNS,2880000,2,Tidak Ada,8999000,7,Tidak Layak
+92,24,Swasta,2385000,2,Baik,11137000,44,Tidak Layak
+93,51,Swasta,2038000,0,Tidak Ada,18175000,10,Tidak Layak
+94,54,Pelajar,1165000,3,Tidak Ada,17559000,55,Tidak Layak
+95,25,Wiraswasta,1510000,5,Baik,5902000,10,Tidak Layak
+96,47,Wiraswasta,11545000,3,Baik,6393000,23,Layak
+97,51,Swasta,13165000,3,Buruk,13731000,12,Tidak Layak
+98,39,PNS,10446000,4,Buruk,9103000,42,Tidak Layak
+99,46,Swasta,1339000,2,Baik,11409000,58,Tidak Layak
+100,37,PNS,14488000,5,Buruk,6517000,44,Tidak Layak
