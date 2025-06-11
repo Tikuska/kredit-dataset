@@ -1,0 +1,111 @@
+ID,LamaPekerjaan,Pekerjaan,Pendapatan,Jumlah_Tanggungan,Riwayat_Kredit,JumlahPinjaman,Lama_Pinjaman,Label
+1,31,PNS,13799467,3,Tidak Baik,14609981,43,Tidak Layak
+2,37,PNS,6021765,2,Baik,18947750,50,Tidak Layak
+3,32,Kontraktor,11606475,3,Baik,24920334,47,Tidak Layak
+4,46,PNS,13683724,3,Buruk,14614420,16,Layak
+5,30,Peternak,5771137,1,Baik,12307461,38,Layak
+6,37,Kontraktor,9296087,3,Baik,11335448,33,Layak
+7,21,PNS,12313637,0,Tidak Baik,11163498,17,Layak
+8,31,Peternak,12604960,0,Tidak Baik,24208961,42,Tidak Layak
+9,38,Kontraktor,10456294,3,Tidak Baik,20716074,17,Layak
+10,45,Kontraktor,8801998,5,Baik,16213633,12,Tidak Layak
+11,31,PNS,12499871,5,Buruk,18967046,43,Layak
+12,47,Wiraswasta,6432766,3,Tidak Baik,20849178,50,Layak
+13,30,Peternak,5666535,2,Baik,21406925,47,Layak
+14,47,PNS,11480777,4,Tidak Baik,17874204,16,Layak
+15,37,Peternak,12215338,0,Tidak Baik,13582784,38,Layak
+16,44,PNS,7163682,5,Baik,15049158,33,Tidak Layak
+17,45,PNS,11082017,0,Buruk,12668247,17,Layak
+18,49,Wiraswasta,5418056,4,Tidak Baik,12348930,42,Layak
+19,40,PNS,6359226,0,Tidak Baik,24712387,17,Layak
+20,29,PNS,13271068,0,Tidak Baik,23907472,12,Layak
+21,34,Peternak,13135132,2,Tidak Baik,11852820,43,Tidak Layak
+22,47,PNS,10395185,0,Tidak Baik,17291509,50,Layak
+23,25,Wiraswasta,5038183,1,Baik,22989239,47,Tidak Layak
+24,30,Wiraswasta,9056105,2,Baik,10550875,16,Tidak Layak
+25,36,PNS,10407885,0,Baik,13874129,38,Tidak Layak
+26,26,Wiraswasta,8130640,5,Buruk,18561985,33,Layak
+27,37,Peternak,9513258,1,Baik,10502874,17,Tidak Layak
+28,35,Kontraktor,11949801,4,Baik,10237072,42,Layak
+29,29,Peternak,9328879,5,Tidak Baik,19549218,17,Layak
+30,48,PNS,6884190,0,Baik,14466701,12,Layak
+31,34,PNS,13834914,4,Baik,18400885,43,Tidak Layak
+32,21,PNS,13041350,1,Baik,10124040,50,Tidak Layak
+33,45,Kontraktor,7740731,0,Baik,23007581,47,Tidak Layak
+34,43,PNS,13126117,0,Baik,21358439,16,Layak
+35,31,Wiraswasta,13599241,3,Baik,22868710,38,Tidak Layak
+36,42,Wiraswasta,5949209,0,Buruk,24900004,33,Layak
+37,43,PNS,13012618,2,Tidak Baik,11725550,17,Tidak Layak
+38,46,Wiraswasta,10560394,0,Buruk,19095205,42,Layak
+39,42,Wiraswasta,10897867,2,Tidak Baik,11618295,17,Tidak Layak
+40,27,Kontraktor,9231184,1,Tidak Baik,14831124,12,Layak
+41,26,Peternak,8289306,5,Baik,21496051,43,Tidak Layak
+42,23,Wiraswasta,13291109,5,Tidak Baik,14469411,50,Tidak Layak
+43,38,Wiraswasta,13686939,4,Baik,24615930,47,Tidak Layak
+44,43,Kontraktor,7970179,0,Buruk,21855531,16,Layak
+45,38,Wiraswasta,10481437,1,Baik,23048565,38,Tidak Layak
+46,36,Peternak,12096653,2,Buruk,14418869,33,Tidak Layak
+47,47,Kontraktor,8153107,1,Baik,13261900,17,Layak
+48,34,Wiraswasta,13610083,1,Baik,14469756,42,Layak
+49,22,PNS,5073411,3,Tidak Baik,20571687,17,Layak
+50,31,Wiraswasta,5578126,0,Baik,16404961,12,Tidak Layak
+51,26,PNS,12596929,5,Baik,12803457,43,Layak
+52,41,Kontraktor,6620034,2,Baik,11791497,50,Layak
+53,35,Kontraktor,13151457,0,Tidak Baik,15884077,47,Layak
+54,45,PNS,9294439,3,Tidak Baik,14549352,16,Tidak Layak
+55,49,Peternak,7107542,2,Baik,14036722,38,Tidak Layak
+56,38,Wiraswasta,6082477,0,Baik,18208262,33,Tidak Layak
+57,45,Wiraswasta,5046969,1,Buruk,18463845,17,Tidak Layak
+58,21,PNS,5016521,2,Tidak Baik,10826811,42,Tidak Layak
+59,31,Peternak,9061368,1,Baik,11090651,17,Tidak Layak
+60,24,Wiraswasta,1124000,2,Buruk,11687507,12,Layak
+61,48,Kontraktor,14906000,5,Tidak Baik,22197347,43,Layak
+62,43,Peternak,9430000,0,Baik,22256756,50,Layak
+63,34,Peternak,9176000,0,Buruk,17175595,47,Layak
+64,36,Kontraktor,1544000,4,Buruk,10260020,16,Tidak Layak
+65,36,PNS,1396000,0,Buruk,17009718,38,Layak
+66,22,Peternak,1724000,1,Buruk,11009536,33,Tidak Layak
+67,35,Wiraswasta,933000,5,Baik,17748674,17,Tidak Layak
+68,31,Wiraswasta,5540000,4,Tidak Baik,16261187,42,Layak
+69,50,Peternak,14862000,2,Tidak Baik,14419741,17,Tidak Layak
+70,46,Kontraktor,1124000,5,Buruk,18883873,12,Tidak Layak
+71,23,PNS,14906000,4,Tidak Baik,23130639,43,Layak
+72,31,Peternak,9430000,5,Buruk,19753316,50,Tidak Layak
+73,42,Peternak,9176000,5,Tidak Baik,10099117,47,Tidak Layak
+74,23,PNS,1544000,0,Buruk,16814156,16,Tidak Layak
+75,21,Peternak,1396000,5,Buruk,17733783,38,Tidak Layak
+76,20,Wiraswasta,1724000,5,Buruk,13877537,33,Tidak Layak
+77,22,Wiraswasta,933000,1,Tidak Baik,22382451,17,Tidak Layak
+78,42,PNS,5540000,2,Baik,16334298,42,Tidak Layak
+79,23,PNS,14862000,4,Baik,16271868,17,Layak
+80,32,Peternak,1124000,2,Buruk,17325519,12,Tidak Layak
+81,39,PNS,14906000,3,Baik,16202966,43,Layak
+82,40,Kontraktor,9430000,2,Tidak Baik,20714150,50,Tidak Layak
+83,42,Wiraswasta,9176000,5,Buruk,23800904,47,Tidak Layak
+84,32,Kontraktor,1544000,5,Buruk,17934000,16,Tidak Layak
+85,46,Peternak,1396000,0,Baik,16260707,38,Tidak Layak
+86,47,PNS,1724000,3,Tidak Baik,21238388,33,Layak
+87,28,PNS,933000,3,Baik,22334221,17,Tidak Layak
+88,33,Wiraswasta,5540000,3,Baik,18080509,42,Layak
+89,26,PNS,14862000,3,Baik,19968351,17,Layak
+90,44,Kontraktor,1124000,3,Buruk,20015684,12,Tidak Layak
+91,29,Kontraktor,14906000,0,Buruk,22835844,43,Layak
+92,46,Kontraktor,9430000,2,Tidak Baik,11531973,50,Tidak Layak
+93,36,Wiraswasta,9176000,0,Buruk,18429344,47,Layak
+94,29,Kontraktor,1544000,3,Tidak Baik,12422085,16,Layak
+95,21,PNS,1396000,0,Tidak Baik,18721966,38,Tidak Layak
+96,22,Wiraswasta,1724000,5,Buruk,24444714,33,Tidak Layak
+97,37,Wiraswasta,933000,2,Buruk,18659476,17,Tidak Layak
+98,45,Peternak,5540000,5,Baik,21517285,42,Tidak Layak
+99,35,Kontraktor,14862000,4,Baik,13083876,17,Layak
+100,43,Peternak,1124000,1,Buruk,19255728,12,Tidak Layak
+101,43,Peternak,14906000,4,Baik,20785863,43,Tidak Layak
+102,23,PNS,9430000,1,Tidak Baik,19228849,50,Tidak Layak
+103,27,PNS,9176000,3,Buruk,13504117,47,Layak
+104,20,Peternak,1544000,1,Baik,24802634,16,Tidak Layak
+105,20,Wiraswasta,1396000,5,Tidak Baik,13826158,38,Tidak Layak
+106,47,Peternak,1724000,3,Baik,18760357,33,Tidak Layak
+107,48,Kontraktor,933000,1,Baik,23404614,17,Tidak Layak
+108,42,Wiraswasta,5540000,2,Tidak Baik,19646183,42,Layak
+109,30,Peternak,14862000,3,Tidak Baik,16730503,17,Tidak Layak
+110,25,Wiraswasta,1124000,4,Buruk,19120802,12,Tidak Layak
